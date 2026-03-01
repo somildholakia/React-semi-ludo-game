@@ -1,0 +1,15 @@
+.greenbtn {
+    background: linear-gradient(green,rgb(137, 255, 137));
+}
+
+.redbtn {
+    background: linear-gradient(red,rgb(249, 120, 94));
+}
+
+.yellowbtn {
+    background: linear-gradient(yellow,rgb(244, 250, 74));
+}
+
+.bluebtn {
+    background: linear-gradient(blue,rgb(71, 140, 252));
+}
